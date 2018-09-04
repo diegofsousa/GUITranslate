@@ -2,7 +2,7 @@
 
 This is a GUI for translating text. Especially for texts of scientific papers.
 
-![img](img/1.png)
+![img](img/1.jpg)
 
 Step by Step to Install:
 
