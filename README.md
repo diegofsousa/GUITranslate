@@ -2,6 +2,8 @@
 
 This is a GUI for translating text. Especially for texts of scientific papers.
 
+![img](img/1.png)
+
 Step by Step to Install:
 
 First of all, have pip and virtualenv installed.
